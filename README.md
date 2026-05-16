@@ -54,6 +54,8 @@ Bootstrap 5
 JavaScript
 Database
 MySQL
+
+
 📂 Project Structure
 task_manager/
 │
