@@ -347,4 +347,7 @@ Admin Panel
 Dark Mode Toggle
 Export Tasks to PDF/Excel
 Mobile Application
-👨‍💻 Author
+👨‍💻 Author:
+    BATTULA VENKATA KRISHNA KARTHIK
+    LINKEDIN :- https://www.linkedin.com/in/battulavenkatakrishnakarthik/
+    EMAIL :- bvenkatakrishnakarthik@gmail.com
